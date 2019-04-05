@@ -16,7 +16,7 @@ To clone this repository, use:
 
 <code>git clone git@github.com:lucasgoncdasilva/cc_approvals.git</code>
 
-All the analysis and machine learning is in the file <code>cc_approval.ipynb</code>.
+All the analysis and machine learning are in the file <code>cc_approval.ipynb</code>.
 
 ###### This notebook is based on [Sayak Paul's Datacamp Project](https://www.datacamp.com/projects/558).
 
